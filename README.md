@@ -5,9 +5,9 @@ Use Alfred to show a simple countdown timer in macOS menu bar
 
 Type `t 5m` or `t break 5m` to set up a timer that shows up in menu bar:
 
-![Screenshot of Alfred](/screenshot1.png)
+![Screenshot of Alfred](/screenshot-a.png)
 
-![Screenshot of menu bar](/screenshot2.png)
+![Screenshot of menu bar](/screenshot-b.png)
 
 Type `t stop` to stop the timer. The timer will keep on running until you stop it or set a new one. This is so that you can track how much time you ran over.
 

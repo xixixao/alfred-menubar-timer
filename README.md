@@ -25,5 +25,6 @@ If you want to display a name in front of the timer, put it first, like `t work 
 1. Download and open the `.alfredworkflow` file.
 2. Download and install Bitbar via https://github.com/matryer/bitbar#get-started
 3. Download the `simple_timer.1s.py` file and put it in the Bitbar plugins you created
-4. Run `touch ~/.alfred_timer_start` and `chmod +x ~/Work/bitbar\ plugins/simple_timer.1s.py`
-5. Click on Bitbar in the menu bar and select `Refresh all`
+4. Run `touch ~/.alfred_timer_start` and `chmod +x <BIT BAR PLUGINS FOLDER>/simple_timer.1s.py`
+5. Update the file path in Alfred preferences to your `<BIT BAR PLUGINS FOLDER>`
+6. Click on Bitbar in the menu bar and select `Refresh all`
